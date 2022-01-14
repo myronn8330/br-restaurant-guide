@@ -4,5 +4,5 @@
 Select a restaurant:
 ## Panda https://www.pandabrooklyn.com/
 ---
-[Back to Asian](Panda https://www.pandabrooklyn.com/) 
-Start Over
+[Back to Asian](asian.md) 
+[Start Over](../home.md)
